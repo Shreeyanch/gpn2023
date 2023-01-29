@@ -23,7 +23,6 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.jpg";
 import people02 from "./people02.jpg";
 import people03 from "./people03.jpg";
-import metapasal from "./metapasal.svg";
 import Slicedlogo from "./Slicedlogo.svg";
 import robbot from "./robbot.png";
 import Ticksquare from "./Ticksquare.svg";
@@ -100,7 +99,6 @@ export {
   people01,
   people02,
   people03,
-  metapasal,
   Slicedlogo,
   robbot,
   Ticksquare,
